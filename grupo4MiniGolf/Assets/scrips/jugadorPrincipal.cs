@@ -5,7 +5,9 @@ using UnityEngine.UI;
 
 public class jugadorPrincipal : MonoBehaviour
 {
-    
+
+    // stick
+    public Joystick stick;
     public float velocidad = 2f;
     public float angulo = 0;
     bool disparo = false;
@@ -70,13 +72,19 @@ public class jugadorPrincipal : MonoBehaviour
         }
         
 
-    if (botonDer)
-        {
-            sumaAngulo();
-        }
-    else if (botonIzq)
+    if (botonDer || stick.Horizontal>0)
         {
             restaAngulo();
+        }
+    else if (botonIzq||stick.Horizontal < 0)
+        {
+            
+            sumaAngulo();
+        }
+
+     if (stick.Vertical<0)
+        {
+            velocidad = stick.Vertical * -100;
         }
      
     RaycastHit hit;
@@ -122,12 +130,12 @@ public class jugadorPrincipal : MonoBehaviour
 
     public void sumaAngulo ()
     {
-        angulo -= 0.2f;
+        angulo -= 0.5f;
        
     }
     public void restaAngulo()
     {
-        angulo +=0.2f;
+        angulo +=0.5f;
        
        
     }

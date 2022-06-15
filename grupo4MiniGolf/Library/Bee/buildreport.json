@@ -1,0 +1,20 @@
+{
+"instructions_readme": "1) Open Chrome, 2) go to chrome://tracing, 3) click Load, 4) navigate to this file.",
+
+"traceEvents":[
+{ "pid": "Unity", "ph":"M", "name": "process_name", "args": {"name": "Unity"} },
+{ "pid": "Unity", "ph":"M", "name": "process_sort_index", "args": {"sort_index": -100} },
+{ "pid": "Unity", "tid": 1, "ph":"M", "name": "thread_name", "args": {"name": ""} },
+{ "pid": "Unity", "tid": 1,"ts": 636540140218.8,"dur": 23613098.2, "ph":"X", "name": "Build player"},
+{ "pid": "Unity", "tid": 1,"ts": 636540193555.3,"dur": 125869.5, "ph":"X", "name": "Preprocess Player"},
+{ "pid": "Unity", "tid": 1,"ts": 636540363789.1,"dur": 23125161.1, "ph":"X", "name": "Prepare For Build"},
+{}
+
+],
+"meta_datetime": "06/15/2022 17:06:11",
+"meta_command_line": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2021.2.19f1\\Editor\\Unity.exe\" -projectpath \"C:\\Users\\USER\\Desktop\\Nueva carpeta (4)\\SegundoPrototipoGrupo4\\grupo4MiniGolf\" -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-USER -hubSessionId dd1b6e00-ebf5-11ec-adea-ef7de18074b1",
+"meta_command_line_args": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.2.19f1\\Editor\\Unity.exe -projectpath C:\\Users\\USER\\Desktop\\Nueva carpeta (4)\\SegundoPrototipoGrupo4\\grupo4MiniGolf -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-USER -hubSessionId dd1b6e00-ebf5-11ec-adea-ef7de18074b1",
+"meta_user_name": "USER",
+"meta_os_version": "Microsoft Windows NT 10.0.19043.0",
+"meta_cpu_count": "4"
+}

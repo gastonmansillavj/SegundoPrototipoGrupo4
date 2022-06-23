@@ -16,6 +16,10 @@ public class manejadorDeGuardados : MonoBehaviour
     public Text txtMejorPuntuacion;
 
     public GameObject btnContinue;
+    public GameObject btnMenu;
+    bool contoladorMenu =false ;
+
+    public Sprite btnCruz;
         
 
     public GameObject menu;
@@ -36,9 +40,15 @@ public class manejadorDeGuardados : MonoBehaviour
     void Update()
     {
         contadorDisparo.text = disparos.ToString();
-
-      
         txtMejorPuntuacion.text = mejorPuntuacion.ToString();
+        if (CargaSpawn() == posicionesSpawn[0].position)
+        {
+            btnContinue.SetActive(false);
+        }
+        else
+        {
+            btnContinue.SetActive(true);
+        }
 
     }
     //
@@ -73,6 +83,7 @@ public class manejadorDeGuardados : MonoBehaviour
        PlayerPrefs.SetInt("disparos",0);
        disparos = 0;
         btnContinue.SetActive(true);
+        
 
     }
 
@@ -165,5 +176,23 @@ public class manejadorDeGuardados : MonoBehaviour
         print(transform.position = CargaSpawn());
         disparos = PlayerPrefs.GetInt("disparos",0);
     }
+
+    public void ActivaBtnMenu ()
+    {
+       
+        if (contoladorMenu == false)
+        {
+            menu.SetActive(false);
+            contoladorMenu = true;
+            
+        }
+        else
+        {
+            menu.SetActive(true);
+            contoladorMenu = false;
+            
+        }
+    }
+   
 
 }

@@ -324,7 +324,14 @@
         316,
         317,
         318,
-        319
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326
       ],
       "AllowUnexpectedOutput": true,
       "DebugActionIndex": 0
@@ -7697,7 +7704,7 @@
     {
       "Annotation": "WriteText C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/values/strings.xml",
       "ActionType": "WriteTextFile",
-      "WriteTextFilePayload": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<resources>\r\n  <string name=\"app_name\">grupo4MiniGolf</string>\r\n  <string name=\"game_view_content_description\">Game view</string>\r\n</resources>",
+      "WriteTextFilePayload": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<resources>\r\n  <string name=\"app_name\">RiddleBall</string>\r\n  <string name=\"game_view_content_description\">Game view</string>\r\n</resources>",
       "Inputs": [],
       "Outputs": [
         "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/values/strings.xml"
@@ -7706,59 +7713,136 @@
       "DebugActionIndex": 301
     },
     {
-      "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon.xml",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/PlaybackEngines/AndroidPlayer/Apk/res/mipmap-anydpi-v26/app_icon.xml"
-      ],
-      "Outputs": [
-        "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon.xml"
-      ],
-      "DebugActionIndex": 302
-    },
-    {
-      "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon_round.xml",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/PlaybackEngines/AndroidPlayer/Apk/res/mipmap-anydpi-v26/app_icon_round.xml"
-      ],
-      "Outputs": [
-        "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon_round.xml"
-      ],
-      "DebugActionIndex": 303
-    },
-    {
       "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-mdpi/app_icon.png",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/PlaybackEngines/AndroidPlayer/Apk/res/mipmap-mdpi/app_icon.png"
+        "Temp/StagingArea/res.mdpi.app_icon.png"
       ],
       "Outputs": [
         "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-mdpi/app_icon.png"
       ],
+      "DebugActionIndex": 302
+    },
+    {
+      "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-ldpi/app_icon.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/res.ldpi.app_icon.png"
+      ],
+      "Outputs": [
+        "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-ldpi/app_icon.png"
+      ],
+      "DebugActionIndex": 303
+    },
+    {
+      "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-hdpi/app_icon.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/res.hdpi.app_icon.png"
+      ],
+      "Outputs": [
+        "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-hdpi/app_icon.png"
+      ],
       "DebugActionIndex": 304
     },
     {
-      "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_background.png",
+      "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-xhdpi/app_icon.png",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/PlaybackEngines/AndroidPlayer/Apk/res/mipmap-mdpi/ic_launcher_background.png"
+        "Temp/StagingArea/res.xhdpi.app_icon.png"
       ],
       "Outputs": [
-        "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_background.png"
+        "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-xhdpi/app_icon.png"
       ],
       "DebugActionIndex": 305
     },
     {
-      "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_foreground.png",
+      "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-xxhdpi/app_icon.png",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/PlaybackEngines/AndroidPlayer/Apk/res/mipmap-mdpi/ic_launcher_foreground.png"
+        "Temp/StagingArea/res.xxhdpi.app_icon.png"
       ],
       "Outputs": [
-        "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+        "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-xxhdpi/app_icon.png"
       ],
       "DebugActionIndex": 306
+    },
+    {
+      "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-xxxhdpi/app_icon.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/res.xxxhdpi.app_icon.png"
+      ],
+      "Outputs": [
+        "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-xxxhdpi/app_icon.png"
+      ],
+      "DebugActionIndex": 307
+    },
+    {
+      "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-ldpi/app_icon_round.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/res.ldpi.app_icon_round.png"
+      ],
+      "Outputs": [
+        "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-ldpi/app_icon_round.png"
+      ],
+      "DebugActionIndex": 308
+    },
+    {
+      "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-mdpi/app_icon_round.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/res.mdpi.app_icon_round.png"
+      ],
+      "Outputs": [
+        "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-mdpi/app_icon_round.png"
+      ],
+      "DebugActionIndex": 309
+    },
+    {
+      "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-hdpi/app_icon_round.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/res.hdpi.app_icon_round.png"
+      ],
+      "Outputs": [
+        "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-hdpi/app_icon_round.png"
+      ],
+      "DebugActionIndex": 310
+    },
+    {
+      "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-xhdpi/app_icon_round.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/res.xhdpi.app_icon_round.png"
+      ],
+      "Outputs": [
+        "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-xhdpi/app_icon_round.png"
+      ],
+      "DebugActionIndex": 311
+    },
+    {
+      "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-xxhdpi/app_icon_round.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/res.xxhdpi.app_icon_round.png"
+      ],
+      "Outputs": [
+        "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-xxhdpi/app_icon_round.png"
+      ],
+      "DebugActionIndex": 312
+    },
+    {
+      "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-xxxhdpi/app_icon_round.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/res.xxxhdpi.app_icon_round.png"
+      ],
+      "Outputs": [
+        "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-xxxhdpi/app_icon_round.png"
+      ],
+      "DebugActionIndex": 313
     },
     {
       "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libmain.so",
@@ -7769,7 +7853,7 @@
       "Outputs": [
         "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libmain.so"
       ],
-      "DebugActionIndex": 307
+      "DebugActionIndex": 314
     },
     {
       "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libunity.so",
@@ -7780,7 +7864,7 @@
       "Outputs": [
         "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libunity.so"
       ],
-      "DebugActionIndex": 308
+      "DebugActionIndex": 315
     },
     {
       "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libmonobdwgc-2.0.so",
@@ -7791,7 +7875,7 @@
       "Outputs": [
         "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libmonobdwgc-2.0.so"
       ],
-      "DebugActionIndex": 309
+      "DebugActionIndex": 316
     },
     {
       "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libMonoPosixHelper.so",
@@ -7802,7 +7886,7 @@
       "Outputs": [
         "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libMonoPosixHelper.so"
       ],
-      "DebugActionIndex": 310
+      "DebugActionIndex": 317
     },
     {
       "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libmono-native.so",
@@ -7813,7 +7897,7 @@
       "Outputs": [
         "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libmono-native.so"
       ],
-      "DebugActionIndex": 311
+      "DebugActionIndex": 318
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/LauncherManifestDiag.txt_zvqu.info",
@@ -7824,7 +7908,7 @@
         "Library/Bee/artifacts/csharpactions/LauncherManifestDiag.txt_zvqu.info"
       ],
       "AllowUnwrittenOutputFiles": true,
-      "DebugActionIndex": 312
+      "DebugActionIndex": 319
     },
     {
       "Annotation": "Generate Manifests Library/Bee/artifacts/Android/Manifest/LauncherManifestDiag.txt (+3 others)",
@@ -8036,11 +8120,11 @@
         283,
         285,
         287,
-        312
+        319
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 313
+      "DebugActionIndex": 320
     },
     {
       "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/symbols/armeabi-v7a/libmain.so",
@@ -8051,7 +8135,7 @@
       "Outputs": [
         "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/symbols/armeabi-v7a/libmain.so"
       ],
-      "DebugActionIndex": 314
+      "DebugActionIndex": 321
     },
     {
       "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/symbols/armeabi-v7a/libmonobdwgc-2.0.so",
@@ -8062,7 +8146,7 @@
       "Outputs": [
         "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/symbols/armeabi-v7a/libmonobdwgc-2.0.so"
       ],
-      "DebugActionIndex": 315
+      "DebugActionIndex": 322
     },
     {
       "Annotation": "CopyFiles C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/symbols/armeabi-v7a/libunity.so",
@@ -8073,7 +8157,7 @@
       "Outputs": [
         "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/symbols/armeabi-v7a/libunity.so"
       ],
-      "DebugActionIndex": 316
+      "DebugActionIndex": 323
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/unity_app_guid_2w98.info",
@@ -8084,7 +8168,7 @@
         "Library/Bee/artifacts/csharpactions/unity_app_guid_2w98.info"
       ],
       "AllowUnwrittenOutputFiles": true,
-      "DebugActionIndex": 317
+      "DebugActionIndex": 324
     },
     {
       "Annotation": "GuidGenerator C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/unity_app_guid",
@@ -8202,11 +8286,11 @@
         "C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/unity_app_guid"
       ],
       "ToBuildDependencies": [
-        317
+        324
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 318
+      "DebugActionIndex": 325
     },
     {
       "Annotation": "Player",
@@ -8429,11 +8513,18 @@
         309,
         310,
         311,
+        312,
         313,
-        318
+        314,
+        315,
+        316,
+        317,
+        318,
+        320,
+        325
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 319
+      "DebugActionIndex": 326
     }
   ],
   "FileSignatures": [
@@ -8735,7 +8826,7 @@
   "EmitDataForBeeWhy": 0,
         "NamedNodes": {
           "all_tundra_nodes": 0,
-          "Player": 319
+          "Player": 326
         }
 ,  "DefaultNodes": [
     0

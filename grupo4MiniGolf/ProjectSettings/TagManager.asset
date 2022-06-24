@@ -9,6 +9,9 @@ TagManager:
   - Atras
   - suelo
   - ZonaMuerte
+  - puntosDeGuardado
+  - paredes
+  - caida
   layers:
   - Default
   - TransparentFX

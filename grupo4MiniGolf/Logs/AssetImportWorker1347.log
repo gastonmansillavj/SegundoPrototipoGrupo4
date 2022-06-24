@@ -1,0 +1,273 @@
+Using pre-set license
+Built from '2021.2/staging' branch; Version is '2021.2.19f1 (602ecdbb2fb0) revision 6303437'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Professional' Language: 'es' Physical Memory: 32719 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.2.19f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1347
+-projectPath
+C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf
+-logFile
+Logs/AssetImportWorker1347.log
+-srvPort
+50876
+Successfully changed project path to: C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf
+C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+mdb reader table full -> cleaning up stale readers. Current readers:
+    pid     thread     txnid
+     19544 4c5c -
+     53728 ee5c -
+     62936 e46c -
+     51860 b79c -
+     56152 d67c -
+     63092 ee20 -
+     55532 8808 -
+     61612 bea8 -
+     59012 d0d0 -
+     62664 dba8 -
+     51832 f6b4 -
+     62340 6ab8 -
+     61944 8724 -
+     63184 ec10 -
+     31948 c7a4 -
+     39988 e048 -
+     59460 dec0 -
+     54312 8c98 -
+     50080 f630 -
+     44608 1c80 -
+     57820 c6ac -
+     53732 ad8c -
+     51496 e71c -
+     47588 f17c -
+     49164 f160 -
+     62124 9ae0 -
+     52044 e4a4 -
+     55300 dfa8 -
+     59084 9d88 -
+     59140 dd6c -
+     60676 cf10 -
+     61476 f0e0 -
+     59272 d890 -
+     49072 cf24 -
+     53804 d5f4 -
+     35068 ddd8 -
+     58400 ed98 -
+     63596 f870 -
+     63640 f89c -
+     23300 d53c -
+     61024 c390 -
+     26640 f2b4 -
+     63784 f92c -
+     58708 e968 -
+     62304 f080 -
+     61608 f5f8 -
+     63948 f9d0 -
+     63988 f9f8 -
+     64156 fa98 -
+     59792 fbb0 -
+     64352 9984 -
+     62836 edf4 -
+     58668 fab0 -
+     62136 ddac -
+     60252 d374 -
+     60108 f510 -
+     57984 f9b0 -
+     63000 f8f4 -
+     56028 f614 -
+     62980 e310 -
+     43340 deac -
+     59308 ee88 -
+     19544 3bb4 -
+     64476 d9b4 -
+     27168 c160 -
+     63568 8528 -
+     64460 fb28 -
+     64456 fbc0 -
+     58652 f534 -
+     64024 f3f0 -
+     58700 f2a4 -
+     50576 bde4 -
+     63564 f87c -
+     48084 f920 -
+     59580 de38 -
+     64496 d9b8 -
+     64328 f67c -
+     65340 ff40 -
+     65396 ff78 -
+     54092 ded8 -
+     13604 4dd0 -
+     60684 fd90 -
+     65368 ff5c -
+     52808 f1a8 -
+     57628 ef0c -
+     54028 ee0c -
+     61680 f8ec -
+     64760 ff4c -
+     65524 fff0 -
+     57252 cb04 -
+     31356 f2f4 -
+     59020 3390 -
+     34588 6e94 -
+     41580 e5c8 -
+     40236 d68c -
+     58344 dce0 -
+     65508 fb4c -
+     60572 fe84 -
+     65296 f818 -
+     63548 f98c -
+     64608 c71c -
+     62436 e514 -
+     63656 dac0 -
+     50468 ef64 -
+     60748 fc10 -
+     62816 fb0c -
+     62316 c690 -
+     24000 ee24 -
+     62068 fab4 -
+     58996 e4c8 -
+     49668 f39c -
+     64828 fa20 -
+     61688 f2e8 -
+     65016 fa04 -
+     55840 fd70 -
+     65992 101cc -
+     58308 cc68 -
+     55752 947c -
+     61844 f30c -
+     66172 10280 -
+     66220 102b0 -
+     63380 a2bc -
+     54456 10370 -
+     59836 fa64 -
+     63084 93e4 -
+     41136 102c4 -
+Cleaned out 123 stale readers
+Refreshing native plugins compatible for Editor in 88.32 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.2.19f1 (602ecdbb2fb0)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX550/550 Series (ID=0x67ff)
+    Vendor:   ATI
+    VRAM:     4075 MB
+    Driver:   30.0.13023.4001
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56872
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007751 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 86.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.623 seconds
+Domain Reload Profiling:
+	ReloadAssembly (623ms)
+		BeginReloadAssembly (76ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (438ms)
+			LoadAssemblies (74ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (100ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (267ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (53ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (87ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (88ms)
+				ProcessInitializeOnLoadMethodAttributes (38ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004731 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\XXHIDATEXX\juegosUnity\SegundoPrototipoGrupo4\grupo4MiniGolf\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image C:\Users\XXHIDATEXX\juegosUnity\SegundoPrototipoGrupo4\grupo4MiniGolf\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.067 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1068ms)
+		BeginReloadAssembly (212ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (124ms)
+		EndReloadAssembly (749ms)
+			LoadAssemblies (87ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (225ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (347ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (88ms)
+				ProcessInitializeOnLoadAttributes (215ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+AssetImportWorkerClient::OnTransportError - code=10061 error=No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.

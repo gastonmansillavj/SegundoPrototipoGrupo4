@@ -17,7 +17,7 @@ public class manejadorDeGuardados : MonoBehaviour
 
     public GameObject btnContinue;
     public GameObject btnMenu;
-    bool contoladorMenu =false ;
+   
 
     public Sprite btnCruz;
         
@@ -33,6 +33,7 @@ public class manejadorDeGuardados : MonoBehaviour
         transform.position = spawnPos;
         mejorPuntuacion = PlayerPrefs.GetInt("MejorPuntuacion", 100000);
         txtMejorPuntuacion.text = mejorPuntuacion.ToString();
+        btnMenu.SetActive(false);
 
     }
 
@@ -41,14 +42,12 @@ public class manejadorDeGuardados : MonoBehaviour
     {
         contadorDisparo.text = disparos.ToString();
         txtMejorPuntuacion.text = mejorPuntuacion.ToString();
+
         if (CargaSpawn() == posicionesSpawn[0].position)
         {
             btnContinue.SetActive(false);
         }
-        else
-        {
-            btnContinue.SetActive(true);
-        }
+       
 
     }
     //
@@ -83,7 +82,9 @@ public class manejadorDeGuardados : MonoBehaviour
        PlayerPrefs.SetInt("disparos",0);
        disparos = 0;
         btnContinue.SetActive(true);
-        
+        btnMenu.SetActive(true);
+
+
 
     }
 
@@ -93,52 +94,55 @@ public class manejadorDeGuardados : MonoBehaviour
             if (other.gameObject.name == "Spawn1")
         {
             CargaPosiciones(1);
+            //other.gameObject.SetActive(false);
+            btnContinue.SetActive(true);
 
         }
         if (other.gameObject.name == "Spawn2")
         {
             CargaPosiciones(2);
-
+            //other.gameObject.SetActive(false);
+            btnContinue.SetActive(true);
         }
         if (other.gameObject.name == "Spawn3")
         {
             CargaPosiciones(3);
-
+           // other.gameObject.SetActive(false);
+            btnContinue.SetActive(true);
         }
         if (other.gameObject.name == "Spawn4")
         {
             CargaPosiciones(4);
-
+            //other.gameObject.SetActive(false);
+            btnContinue.SetActive(true);
         }
         if (other.gameObject.name == "Spawn5")
         {
-            
+            btnContinue.SetActive(true);
             CargaPosiciones(5);
-
+           // other.gameObject.SetActive(false);
         }
-        if (other.gameObject.name == "Spawn5")
-        {
-
-            CargaPosiciones(5);
-
-        }
+        
 
         if (other.gameObject.tag == "ZonaMuerte")
         {
 
             menu.SetActive(true);
-
+            
         }
         if (other.gameObject.name == "SpawnFinal")
         {
-            mejorPuntuacion = 100000;
+            btnContinue.SetActive(false);
+            menu.SetActive(true);
+            stick.SetActive(false);
+            other.gameObject.SetActive(false);
+
             if (disparos<mejorPuntuacion)
             {
                 PlayerPrefs.SetInt("MejorPuntuacion",disparos);
             }
            
-            menu.SetActive(true);
-            btnContinue.SetActive(false);
+           
 
 
         }
@@ -175,23 +179,26 @@ public class manejadorDeGuardados : MonoBehaviour
         
         print(transform.position = CargaSpawn());
         disparos = PlayerPrefs.GetInt("disparos",0);
+        btnMenu.SetActive(true);
     }
 
     public void ActivaBtnMenu ()
     {
        
-        if (contoladorMenu == false)
+        if (menu.activeSelf)
         {
             menu.SetActive(false);
-            contoladorMenu = true;
+            stick.SetActive(true);
             
         }
         else
         {
             menu.SetActive(true);
-            contoladorMenu = false;
-            
+            stick.SetActive(false);
+
         }
+
+        
     }
    
 

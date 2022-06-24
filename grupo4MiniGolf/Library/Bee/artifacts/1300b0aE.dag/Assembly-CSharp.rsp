@@ -362,6 +362,7 @@
 "Assets/scrips/manejadorDeEscena.cs"
 "Assets/scrips/manejadorDeGuardados.cs"
 "Assets/scrips/scripPrueba2.cs"
+"Assets/scrips/sonidos.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs"

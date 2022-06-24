@@ -202,6 +202,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (75)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!4 &4755439 stripped
@@ -655,6 +659,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (71)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!4 &40036507 stripped
@@ -681,6 +689,25 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2911736426955009642, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+--- !u!1 &41153460 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
+  m_PrefabInstance: {fileID: 1913311242}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &41153464
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 41153460}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -7387706064836869012, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
 --- !u!1 &44646632 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 84b400e872c8a684486f2a90f63e89eb, type: 3}
@@ -817,6 +844,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (102)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -1055,6 +1086,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -1343,8 +1378,31 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (110)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+--- !u!1 &79545845 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 8322f4ff51e5cc24ba78536f16ba935b, type: 3}
+  m_PrefabInstance: {fileID: 330496613}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &79545849
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 79545845}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -5928785198427282456, guid: 8322f4ff51e5cc24ba78536f16ba935b, type: 3}
 --- !u!1001 &84336800
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1574,6 +1632,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1001 &95764700
@@ -1743,6 +1805,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -1925,6 +1991,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MuroCuadrados002 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63303704e3e65914a8589af9507f5432, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 63303704e3e65914a8589af9507f5432, type: 3}
 --- !u!1 &109654699 stripped
@@ -2008,6 +2078,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
       propertyPath: m_Name
       value: Tunel001 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
@@ -2243,6 +2317,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (58)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!4 &118211342 stripped
@@ -2414,7 +2492,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 0.5627586, y: 1}
+    m_SensorSize: {x: 0.56213015, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -2579,6 +2657,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tunel001 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
 --- !u!1001 &152420804
@@ -2655,6 +2737,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (68)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -2834,6 +2920,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tunel001 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
 --- !u!1 &161806308 stripped
@@ -2889,8 +2979,9 @@ RectTransform:
   - {fileID: 773697454}
   - {fileID: 1303003023}
   - {fileID: 115178025}
+  - {fileID: 1126561377}
   m_Father: {fileID: 1663207880}
-  m_RootOrder: 5
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3018,6 +3109,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -3379,6 +3474,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (96)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!4 &218966827 stripped
@@ -3468,6 +3567,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tunel001 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
 --- !u!1001 &228877991
@@ -3532,6 +3635,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
       propertyPath: m_Name
       value: Tunel001 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
@@ -4023,6 +4130,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1 &269004436 stripped
@@ -4300,6 +4411,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -4648,6 +4763,25 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2228417370725966487, guid: 6f58901303844214f8d8dcc366048eb2, type: 3}
+--- !u!1 &305062535 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
+  m_PrefabInstance: {fileID: 441825784}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &305062539
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 305062535}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -7387706064836869012, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
 --- !u!1001 &305754616
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4804,6 +4938,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1001 &313641599
@@ -4884,6 +5022,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -5218,6 +5360,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 654acbeb834519a45b88ea8141736d5b, type: 3}
       propertyPath: m_Name
       value: MuroCuadrado001 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 654acbeb834519a45b88ea8141736d5b, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 654acbeb834519a45b88ea8141736d5b, type: 3}
@@ -5874,6 +6020,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!4 &361924039 stripped
@@ -5967,6 +6117,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Suelo005 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 853a0e48256f4f544a90d7496659525b, type: 3}
+      propertyPath: m_TagString
+      value: caida
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 853a0e48256f4f544a90d7496659525b, type: 3}
 --- !u!1001 &374111126
@@ -6048,6 +6202,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1001 &376941445
@@ -6124,6 +6282,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -6302,6 +6464,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1001 &388746981
@@ -6378,6 +6544,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (64)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -6581,6 +6751,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (90)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!4 &408439460 stripped
@@ -6762,6 +6936,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MuroCuadrado001 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 654acbeb834519a45b88ea8141736d5b, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 654acbeb834519a45b88ea8141736d5b, type: 3}
 --- !u!1 &416583338 stripped
@@ -6857,6 +7035,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -7193,6 +7375,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1 &445264516
@@ -7370,6 +7556,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 654acbeb834519a45b88ea8141736d5b, type: 3}
       propertyPath: m_Name
       value: MuroCuadrado001 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 654acbeb834519a45b88ea8141736d5b, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 654acbeb834519a45b88ea8141736d5b, type: 3}
@@ -7622,7 +7812,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
       propertyPath: m_TagString
-      value: suelo
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
@@ -7650,6 +7840,25 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2911736426955009642, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+--- !u!1 &455720501 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 6ab12052cceb3394da83691630400f67, type: 3}
+  m_PrefabInstance: {fileID: 953273974}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &455720505
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 455720501}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -462981019419857548, guid: 6ab12052cceb3394da83691630400f67, type: 3}
 --- !u!1001 &457688979
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7728,6 +7937,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (88)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -7852,6 +8065,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (86)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -8119,6 +8336,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (62)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!4 &479901094 stripped
@@ -8219,6 +8440,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (67)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -8421,6 +8646,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -8785,6 +9014,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (82)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!4 &499176491 stripped
@@ -8973,6 +9206,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (76)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!4 &505030015 stripped
@@ -9146,6 +9383,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spawn1
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3bffd50b0bbbc34479135848871f278d, type: 3}
+      propertyPath: m_TagString
+      value: puntosDeGuardado
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3bffd50b0bbbc34479135848871f278d, type: 3}
 --- !u!1001 &521297086
@@ -9222,6 +9463,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -9461,6 +9706,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tunel001 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
 --- !u!1001 &535425139
@@ -9541,6 +9790,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (94)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -9650,6 +9903,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tunel001 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
 --- !u!1 &541926392 stripped
@@ -9717,6 +9974,18 @@ MonoBehaviour:
         - m_Target: {fileID: 1431892904}
           m_TargetAssemblyTypeName: scripPrueba2, Assembly-CSharp
           m_MethodName: desactivaStick
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 1431892909}
+          m_TargetAssemblyTypeName: sonidos, Assembly-CSharp
+          m_MethodName: reproduceDisparo
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
@@ -9965,6 +10234,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1 &554592845 stripped
@@ -9991,6 +10264,25 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2911736426955009642, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+--- !u!1 &558023456 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 40c875ffd8f718042a9042712876a3b3, type: 3}
+  m_PrefabInstance: {fileID: 1074724347}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &558023460
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 558023456}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -3329902420748629119, guid: 40c875ffd8f718042a9042712876a3b3, type: 3}
 --- !u!1001 &559055000
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10069,6 +10361,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -10150,6 +10446,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -10418,6 +10718,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1 &602031992 stripped
@@ -10658,6 +10962,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6ab12052cceb3394da83691630400f67, type: 3}
+--- !u!1 &607163839 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 6ab12052cceb3394da83691630400f67, type: 3}
+  m_PrefabInstance: {fileID: 21750971}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &607163843
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 607163839}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -462981019419857548, guid: 6ab12052cceb3394da83691630400f67, type: 3}
 --- !u!1001 &612950082
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10732,6 +11055,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (69)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -10837,6 +11164,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (78)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -10977,6 +11308,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1001 &623957496
@@ -11060,7 +11395,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 654acbeb834519a45b88ea8141736d5b, type: 3}
       propertyPath: m_TagString
-      value: suelo
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 654acbeb834519a45b88ea8141736d5b, type: 3}
@@ -11144,7 +11479,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
       propertyPath: m_TagString
-      value: suelo
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
@@ -11349,6 +11684,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1001 &644187957
@@ -11428,6 +11767,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8322f4ff51e5cc24ba78536f16ba935b, type: 3}
+--- !u!1 &645514418 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 8322f4ff51e5cc24ba78536f16ba935b, type: 3}
+  m_PrefabInstance: {fileID: 1889537448}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &645514422
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 645514418}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -5928785198427282456, guid: 8322f4ff51e5cc24ba78536f16ba935b, type: 3}
 --- !u!1001 &647711078
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11506,6 +11864,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (93)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -11795,15 +12157,16 @@ RectTransform:
   m_GameObject: {fileID: 667784904}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.0894973, y: 0.86574996, z: 0.9234666}
+  m_LocalScale: {x: 2.2525098, y: 1.164174, z: 1.2417855}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1784180270}
   m_Father: {fileID: 1663207880}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -347, y: 816}
+  m_AnchoredPosition: {x: -347, y: 823}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &667784906
@@ -11819,14 +12182,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.6415094, g: 0.6415094, b: 0.6415094, a: 1}
+  m_Color: {r: 0.9150943, g: 0.87410235, b: 0.20287468, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f5f264b7cff7f8b4c9ece1ddebfb1bb5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 83cfeaaa8e1263d4182da86f01b5eb85, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -11973,7 +12336,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 654acbeb834519a45b88ea8141736d5b, type: 3}
       propertyPath: m_TagString
-      value: suelo
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 654acbeb834519a45b88ea8141736d5b, type: 3}
@@ -12251,6 +12614,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1 &714161976 stripped
@@ -12375,6 +12742,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -12553,6 +12924,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1001 &743651284
@@ -12703,6 +13078,25 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2911736426955009642, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+--- !u!1 &765665580 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
+  m_PrefabInstance: {fileID: 1250181605}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &765665584
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 765665580}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -7387706064836869012, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
 --- !u!1 &765892158 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 026ba51ac019f0141a2bd689d4b4581e, type: 3}
@@ -13003,7 +13397,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 0.5627586, y: 1}
+    m_SensorSize: {x: 0.56213015, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -13091,6 +13485,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tunel001 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
 --- !u!1001 &783883929
@@ -13171,6 +13569,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (83)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -13300,6 +13702,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (80)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -13489,6 +13895,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6f58901303844214f8d8dcc366048eb2, type: 3}
+--- !u!1 &802745129 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
+  m_PrefabInstance: {fileID: 1542377851}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &802745133
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 802745129}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -7387706064836869012, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
 --- !u!1001 &803190993
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13696,6 +14121,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (65)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -13940,6 +14369,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (95)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!4 &833767472 stripped
@@ -14164,6 +14597,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &841611983 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 6ab12052cceb3394da83691630400f67, type: 3}
+  m_PrefabInstance: {fileID: 1859050982}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &841611987
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 841611983}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -462981019419857548, guid: 6ab12052cceb3394da83691630400f67, type: 3}
 --- !u!1 &846097738
 GameObject:
   m_ObjectHideFlags: 3
@@ -14698,6 +15150,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1001 &875979587
@@ -14774,6 +15230,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (111)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -14855,6 +15315,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (79)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -14995,6 +15459,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3bffd50b0bbbc34479135848871f278d, type: 3}
       propertyPath: m_Name
       value: Spawn3
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3bffd50b0bbbc34479135848871f278d, type: 3}
+      propertyPath: m_TagString
+      value: puntosDeGuardado
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3bffd50b0bbbc34479135848871f278d, type: 3}
@@ -15252,8 +15720,31 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (56)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+--- !u!1 &914401820 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 6ab12052cceb3394da83691630400f67, type: 3}
+  m_PrefabInstance: {fileID: 1475490920}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &914401824
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 914401820}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -462981019419857548, guid: 6ab12052cceb3394da83691630400f67, type: 3}
 --- !u!1 &917322805 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -15278,6 +15769,25 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2911736426955009642, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+--- !u!1 &928927540 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 8322f4ff51e5cc24ba78536f16ba935b, type: 3}
+  m_PrefabInstance: {fileID: 1428540687}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &928927544
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 928927540}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -5928785198427282456, guid: 8322f4ff51e5cc24ba78536f16ba935b, type: 3}
 --- !u!1 &930343685 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -15445,6 +15955,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
       propertyPath: m_Name
       value: Tunel001 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
@@ -15710,6 +16224,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (98)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!4 &942085104 stripped
@@ -15810,6 +16328,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (106)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -16353,6 +16875,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (53)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1001 &971181043
@@ -16579,6 +17105,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -16858,6 +17388,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (108)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -17264,6 +17798,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Suelo005 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 853a0e48256f4f544a90d7496659525b, type: 3}
+      propertyPath: m_TagString
+      value: caida
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 853a0e48256f4f544a90d7496659525b, type: 3}
 --- !u!1 &1028525867 stripped
@@ -17379,6 +17917,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (63)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!4 &1037428395 stripped
@@ -17471,6 +18013,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 853a0e48256f4f544a90d7496659525b, type: 3}
       propertyPath: m_Name
       value: Suelo005
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 853a0e48256f4f544a90d7496659525b, type: 3}
+      propertyPath: m_TagString
+      value: caida
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 853a0e48256f4f544a90d7496659525b, type: 3}
@@ -17734,6 +18280,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arco001 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 40c875ffd8f718042a9042712876a3b3, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 40c875ffd8f718042a9042712876a3b3, type: 3}
 --- !u!1001 &1089279099
@@ -17797,7 +18347,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 09e8aff90a4154748af15fbe768e7057, type: 3}
       propertyPath: m_TagString
-      value: suelo
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 09e8aff90a4154748af15fbe768e7057, type: 3}
@@ -18072,6 +18622,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (87)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!4 &1106397759 stripped
@@ -18231,10 +18785,86 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
       propertyPath: m_TagString
-      value: suelo
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
+--- !u!1 &1126561376
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1126561377}
+  - component: {fileID: 1126561379}
+  - component: {fileID: 1126561378}
+  m_Layer: 5
+  m_Name: nombres
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1126561377
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1126561376}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 170561392}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 3.181, y: -878}
+  m_SizeDelta: {x: 1009.807, y: 131.812}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1126561378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1126561376}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: fa15d0cc89552cf4e9ec90190eb6e321, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1126561379
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1126561376}
+  m_CullTransparentMesh: 1
 --- !u!1 &1128040890 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -18352,6 +18982,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -18533,6 +19167,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (100)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!4 &1158855747 stripped
@@ -18637,6 +19275,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 654acbeb834519a45b88ea8141736d5b, type: 3}
       propertyPath: m_Name
       value: MuroCuadrado001 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 654acbeb834519a45b88ea8141736d5b, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 654acbeb834519a45b88ea8141736d5b, type: 3}
@@ -18907,6 +19549,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1001 &1175299054
@@ -19060,6 +19706,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (70)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -19261,6 +19911,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -19909,7 +20563,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
       propertyPath: m_TagString
-      value: suelo
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
@@ -19991,6 +20645,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (91)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -20368,6 +21026,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (81)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!4 &1228158723 stripped
@@ -20673,6 +21335,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tunel001 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
 --- !u!1001 &1250181605
@@ -20736,10 +21402,48 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
       propertyPath: m_TagString
-      value: suelo
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
+--- !u!1 &1258475905 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 6ab12052cceb3394da83691630400f67, type: 3}
+  m_PrefabInstance: {fileID: 1338765981}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1258475909
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1258475905}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -462981019419857548, guid: 6ab12052cceb3394da83691630400f67, type: 3}
+--- !u!1 &1258603097 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 6ab12052cceb3394da83691630400f67, type: 3}
+  m_PrefabInstance: {fileID: 29872750}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1258603101
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1258603097}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -462981019419857548, guid: 6ab12052cceb3394da83691630400f67, type: 3}
 --- !u!1001 &1266688994
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21162,6 +21866,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spawn5
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3bffd50b0bbbc34479135848871f278d, type: 3}
+      propertyPath: m_TagString
+      value: puntosDeGuardado
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3bffd50b0bbbc34479135848871f278d, type: 3}
 --- !u!1001 &1289152965
@@ -21227,8 +21935,31 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tunel001 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
+--- !u!1 &1289431760 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 8322f4ff51e5cc24ba78536f16ba935b, type: 3}
+  m_PrefabInstance: {fileID: 2127108222}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1289431764
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1289431760}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -5928785198427282456, guid: 8322f4ff51e5cc24ba78536f16ba935b, type: 3}
 --- !u!1001 &1291642231
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21307,6 +22038,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (77)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -21412,6 +22147,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (72)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -21531,6 +22270,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -21689,6 +22432,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MuroCuadrado001 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 654acbeb834519a45b88ea8141736d5b, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 654acbeb834519a45b88ea8141736d5b, type: 3}
 --- !u!1 &1304546354 stripped
@@ -21818,6 +22565,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spawn4
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3bffd50b0bbbc34479135848871f278d, type: 3}
+      propertyPath: m_TagString
+      value: puntosDeGuardado
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3bffd50b0bbbc34479135848871f278d, type: 3}
 --- !u!1001 &1324708075
@@ -21894,6 +22645,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (59)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -22057,6 +22812,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1001 &1338765981
@@ -22194,6 +22953,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -22375,6 +23138,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6ab12052cceb3394da83691630400f67, type: 3}
+--- !u!1 &1364757268 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 8a1752f4df0624a4a8b3a0fe9102c195, type: 3}
+  m_PrefabInstance: {fileID: 1709995678}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1364757272
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1364757268}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4579454407841743219, guid: 8a1752f4df0624a4a8b3a0fe9102c195, type: 3}
 --- !u!1 &1370259532 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -22462,6 +23244,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tunel001 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
 --- !u!1001 &1376317899
@@ -22542,6 +23328,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -22684,6 +23474,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
       propertyPath: m_Name
       value: Tunel001 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
@@ -22842,6 +23636,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -23210,6 +24008,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (66)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!4 &1400787488 stripped
@@ -23395,7 +24197,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 0.5627586, y: 1}
+    m_SensorSize: {x: 0.56213015, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -23716,6 +24518,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1 &1431892896
@@ -23736,6 +24542,8 @@ GameObject:
   - component: {fileID: 1431892905}
   - component: {fileID: 1431892906}
   - component: {fileID: 1431892907}
+  - component: {fileID: 1431892908}
+  - component: {fileID: 1431892909}
   m_Layer: 0
   m_Name: jugador
   m_TagString: Untagged
@@ -23836,7 +24644,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1431892896}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.8, y: 1.2, z: -0.9}
+  m_LocalPosition: {x: 5.8, y: 5.6, z: -0.9}
   m_LocalScale: {x: 1.0795, y: 1.0795, z: 1.0795}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -23915,7 +24723,7 @@ LineRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 0}
+  - {fileID: 2100000, guid: ad8dd4b086157504db8dfbc947fc8d59, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -23946,8 +24754,17 @@ LineRenderer:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
-        time: 0.0034713745
-        value: 0.79032326
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.55554247
+        value: 0.73636514
         inSlope: 0
         outSlope: 0
         tangentMode: 0
@@ -23956,12 +24773,12 @@ LineRenderer:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
-        value: 0.3306427
-        inSlope: -0.4516325
-        outSlope: -0.4516325
+        value: 0
+        inSlope: -0
+        outSlope: -0
         tangentMode: 0
         weightedMode: 0
-        inWeight: 0.12543543
+        inWeight: 0.18773949
         outWeight: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
@@ -23998,7 +24815,7 @@ LineRenderer:
     numCornerVertices: 0
     numCapVertices: 0
     alignment: 0
-    textureMode: 0
+    textureMode: 1
     shadowBias: 0.5
     generateLightingData: 0
   m_UseWorldSpace: 1
@@ -24033,6 +24850,118 @@ MonoBehaviour:
   btnCruz: {fileID: 21300000, guid: 7cce20f2a8dfb0b47b836a0161cf2c2f, type: 3}
   menu: {fileID: 170561391}
   stick: {fileID: 541926392}
+--- !u!82 &1431892908
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1431892896}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 66df4d027c3713c4aae1641fd9e70b06, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &1431892909
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1431892896}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f43ee1beed581d4abc196623e22fb0e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disparo: {fileID: 8300000, guid: 4b6b3b579e604b049b600305f1bc2737, type: 3}
+  arrastra: {fileID: 0}
+  puntoDeLLegada: {fileID: 0}
+  puntoDeGuardado: {fileID: 8300000, guid: bd76ca858c42df14694dae0d63c374cd, type: 3}
 --- !u!1 &1432172319
 GameObject:
   m_ObjectHideFlags: 0
@@ -24282,6 +25211,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (104)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!4 &1447931628 stripped
@@ -24386,6 +25319,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 654acbeb834519a45b88ea8141736d5b, type: 3}
       propertyPath: m_Name
       value: MuroCuadrado001 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 654acbeb834519a45b88ea8141736d5b, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 654acbeb834519a45b88ea8141736d5b, type: 3}
@@ -24512,7 +25449,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
       propertyPath: m_TagString
-      value: suelo
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
@@ -24633,6 +25570,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -24849,6 +25790,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (109)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1001 &1483842641
@@ -25005,6 +25950,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (85)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -25433,6 +26382,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (45)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1001 &1510548576
@@ -25860,8 +26813,31 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+--- !u!1 &1532754139 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 6ab12052cceb3394da83691630400f67, type: 3}
+  m_PrefabInstance: {fileID: 1985112711}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1532754143
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1532754139}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -462981019419857548, guid: 6ab12052cceb3394da83691630400f67, type: 3}
 --- !u!1001 &1537852686
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25936,6 +26912,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -26024,7 +27004,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
       propertyPath: m_TagString
-      value: suelo
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
@@ -26102,6 +27082,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -26264,6 +27248,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (97)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -26540,6 +27528,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1 &1588194618 stripped
@@ -26759,6 +27751,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -27578,6 +28574,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1 &1663207876
@@ -27675,10 +28675,9 @@ RectTransform:
   m_Children:
   - {fileID: 359438037}
   - {fileID: 56502626}
-  - {fileID: 1784180270}
   - {fileID: 667784905}
-  - {fileID: 541926393}
   - {fileID: 170561392}
+  - {fileID: 541926393}
   m_Father: {fileID: 0}
   m_RootOrder: 33
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -0.47}
@@ -27764,6 +28763,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
       propertyPath: m_Name
       value: Tunel001 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
@@ -27924,6 +28927,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1688680568 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 6ab12052cceb3394da83691630400f67, type: 3}
+  m_PrefabInstance: {fileID: 1490688757}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1688680572
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1688680568}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -462981019419857548, guid: 6ab12052cceb3394da83691630400f67, type: 3}
 --- !u!1 &1690741805
 GameObject:
   m_ObjectHideFlags: 0
@@ -28097,6 +29119,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (89)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -28388,6 +29414,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a1752f4df0624a4a8b3a0fe9102c195, type: 3}
+--- !u!1 &1710392697 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
+  m_PrefabInstance: {fileID: 1458009160}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1710392701
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1710392697}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -7387706064836869012, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
 --- !u!1 &1717468687
 GameObject:
   m_ObjectHideFlags: 0
@@ -28501,6 +29546,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (73)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!4 &1717605237 stripped
@@ -28588,7 +29637,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 09e8aff90a4154748af15fbe768e7057, type: 3}
       propertyPath: m_TagString
-      value: suelo
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 09e8aff90a4154748af15fbe768e7057, type: 3}
@@ -29001,6 +30050,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (99)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!4 &1740626336 stripped
@@ -29102,6 +30155,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1 &1756401920
@@ -29158,6 +30215,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 50
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1757537519 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 8a1752f4df0624a4a8b3a0fe9102c195, type: 3}
+  m_PrefabInstance: {fileID: 833797993}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1757537523
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1757537519}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4579454407841743219, guid: 8a1752f4df0624a4a8b3a0fe9102c195, type: 3}
 --- !u!1001 &1762473987
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29233,6 +30309,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (51)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1001 &1769244436
@@ -29297,6 +30377,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
       propertyPath: m_Name
       value: Tunel001 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
@@ -29522,16 +30606,16 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1784180269}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -14}
-  m_LocalScale: {x: 2.1024358, y: 1.1546968, z: 1.1591}
+  m_LocalPosition: {x: 0, y: 0, z: -15.160267}
+  m_LocalScale: {x: 0.63759977, y: 0.76709205, z: 0.9888918}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1663207880}
-  m_RootOrder: 2
+  m_Father: {fileID: 667784905}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -344, y: 818}
+  m_AnchoredPosition: {x: 2.7537537, y: 2.3099976}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1784180271
@@ -29554,7 +30638,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 83cfeaaa8e1263d4182da86f01b5eb85, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f5f264b7cff7f8b4c9ece1ddebfb1bb5, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -29572,6 +30656,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1784180269}
   m_CullTransparentMesh: 1
+--- !u!1 &1787629191 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 8322f4ff51e5cc24ba78536f16ba935b, type: 3}
+  m_PrefabInstance: {fileID: 1164608044}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1787629195
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1787629191}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -5928785198427282456, guid: 8322f4ff51e5cc24ba78536f16ba935b, type: 3}
 --- !u!1001 &1794662624
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29784,6 +30887,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (92)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!4 &1798475742 stripped
@@ -29810,6 +30917,25 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2911736426955009642, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+--- !u!1 &1807301611 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 6ab12052cceb3394da83691630400f67, type: 3}
+  m_PrefabInstance: {fileID: 1610055889}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1807301615
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1807301611}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -462981019419857548, guid: 6ab12052cceb3394da83691630400f67, type: 3}
 --- !u!1001 &1808211397
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29871,7 +30997,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
       propertyPath: m_TagString
-      value: suelo
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
@@ -30357,6 +31483,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1001 &1857396826
@@ -30515,6 +31645,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (50)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1001 &1859050982
@@ -30660,6 +31794,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
       propertyPath: m_Name
       value: Tunel001 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 29c5d2e5be7f23a4e9d731be440a9c9d, type: 3}
@@ -30834,6 +31972,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -31226,6 +32368,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spawn2
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3bffd50b0bbbc34479135848871f278d, type: 3}
+      propertyPath: m_TagString
+      value: puntosDeGuardado
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3bffd50b0bbbc34479135848871f278d, type: 3}
 --- !u!1 &1891383202 stripped
@@ -31421,6 +32567,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1001 &1913311242
@@ -31484,7 +32634,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
       propertyPath: m_TagString
-      value: suelo
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9f9c9c5c8ee158f47b697eed316dab47, type: 3}
@@ -32136,6 +33286,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6ab12052cceb3394da83691630400f67, type: 3}
+--- !u!1 &1950458553 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 6ab12052cceb3394da83691630400f67, type: 3}
+  m_PrefabInstance: {fileID: 1359465525}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1950458557
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1950458553}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -462981019419857548, guid: 6ab12052cceb3394da83691630400f67, type: 3}
 --- !u!1001 &1950805112
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32210,6 +33379,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -32291,6 +33464,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -32701,6 +33878,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (105)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!4 &1978743481 stripped
@@ -33036,6 +34217,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (107)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -33381,7 +34566,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 0.5627586, y: 1}
+    m_SensorSize: {x: 0.56213015, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -33504,6 +34689,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -33795,6 +34984,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1 &2053594266
@@ -34056,6 +35249,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1001 &2089655327
@@ -34136,6 +35333,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (74)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -34242,6 +35443,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!1001 &2094651159
@@ -34322,6 +35527,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -34538,6 +35747,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pared001 (84)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
 --- !u!4 &2110326949 stripped
@@ -34711,6 +35924,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (103)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
@@ -34949,6 +36166,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
       propertyPath: m_Name
       value: Pared001 (101)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}
+      propertyPath: m_TagString
+      value: paredes
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3503793fc4eaa14dbf8a6c8b6508d19, type: 3}

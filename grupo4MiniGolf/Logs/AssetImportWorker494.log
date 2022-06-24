@@ -15,7 +15,7 @@ C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf
 -logFile
 Logs/AssetImportWorker494.log
 -srvPort
-62991
+50876
 Successfully changed project path to: C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf
 C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,7 +47,136 @@ C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 81.42 ms, found 3 plugins.
+mdb reader table full -> cleaning up stale readers. Current readers:
+    pid     thread     txnid
+     19544 4c5c -
+     29528 6688 -
+     31600 99a8 -
+     38268 73b0 -
+     38480 9ad4 -
+     33664 9124 -
+     29056 6bd8 -
+     38852 749c -
+     29536 9654 -
+     37388 90bc -
+     24200 9bd4 -
+     29016 6404 -
+     39504 89bc -
+     39292 987c -
+     19856 4d78 -
+     24092 6a6c -
+     23276 8cdc -
+     38392 8a24 -
+     26948 96cc -
+     36140 74f0 -
+     29140 50d4 -
+     28872 50f8 -
+     30232 9278 -
+     34000 97a8 -
+     23148 8720 -
+     34972 3e4 -
+     33656 74f4 -
+     26416 7018 -
+     39972 9c28 -
+     28100 9b2c -
+     25032 9074 -
+     21720 9dd4 -
+     39012 9a88 -
+     28840 20bc -
+     30360 9608 -
+     36724 9624 -
+     39428 7ca8 -
+     21116 9094 -
+     31408 85c8 -
+     33004 7b48 -
+     38988 9d04 -
+     32736 90b0 -
+     34892 9c38 -
+     40772 83f8 -
+     37732 98c0 -
+     38108 8cc8 -
+     28776 6ce8 -
+     28944 54bc -
+     39096 8de8 -
+     23308 91c -
+     40676 9a84 -
+     26724 745c -
+     36992 6dec -
+     40408 6410 -
+     41236 a118 -
+     30264 a024 -
+     41896 71e8 -
+     41456 a1f4 -
+     38288 9a94 -
+     36860 8d28 -
+     36072 8d34 -
+     37020 58dc -
+     19544 3bb4 -
+     37408 53ac -
+     38320 80cc -
+     38628 948c -
+     34012 8a98 -
+     34416 7118 -
+     30788 6954 -
+     41532 6a78 -
+     23260 91c8 -
+     35672 80d4 -
+     13636 66d8 -
+     41808 7434 -
+     30704 8c3c -
+     35388 6454 -
+     26716 8fb4 -
+     22028 8420 -
+     40140 9848 -
+     35576 99c4 -
+     35440 a2cc -
+     31720 8e98 -
+     41436 a090 -
+     40800 9ce8 -
+     38224 6b64 -
+     22596 9388 -
+     20820 90a8 -
+     30008 540 -
+     38332 689c -
+     25464 6f20 -
+     21040 9f18 -
+     27552 8b50 -
+     39008 8c78 -
+     28568 78b0 -
+     40356 94e4 -
+     19448 874c -
+     39620 9630 -
+     41028 7fa4 -
+     40736 9af0 -
+     38068 7218 -
+     38504 94d4 -
+     28432 966c -
+     30512 6f28 -
+     24260 4224 -
+     25876 2dc4 -
+     38708 7f40 -
+     29864 7e10 -
+     29340 9a30 -
+      7068 5fc4 -
+     29912 82e4 -
+     41700 5304 -
+     34716 9960 -
+     36796 8468 -
+     39552 a01c -
+     30196 61dc -
+     26520 8af0 -
+     36284 95f0 -
+     36592 952c -
+     40228 8050 -
+     36080 4f90 -
+     42008 a41c -
+     42880 a784 -
+     42860 a75c -
+     42552 a63c -
+     42076 a5a8 -
+     39692 9b98 -
+Cleaned out 123 stale readers
+Refreshing native plugins compatible for Editor in 83.23 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.2.19f1 (602ecdbb2fb0)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/Resources/UnitySubsystems
@@ -63,80 +192,80 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56788
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56184
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007355 seconds.
+Registered in 0.006910 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 83.61 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 82.83 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.597 seconds
+- Completed reload, in  0.592 seconds
 Domain Reload Profiling:
-	ReloadAssembly (597ms)
-		BeginReloadAssembly (67ms)
+	ReloadAssembly (592ms)
+		BeginReloadAssembly (65ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (430ms)
-			LoadAssemblies (65ms)
+		EndReloadAssembly (427ms)
+			LoadAssemblies (63ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (94ms)
+			SetupTypeCache (95ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (25ms)
+			RebuildScriptCaches (24ms)
 			SetupLoadedEditorAssemblies (264ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (54ms)
+				InitializePlatformSupportModulesInManaged (50ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (84ms)
+				RefreshPlugins (83ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (84ms)
-				ProcessInitializeOnLoadMethodAttributes (40ms)
+				ProcessInitializeOnLoadAttributes (88ms)
+				ProcessInitializeOnLoadMethodAttributes (41ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004531 seconds.
+Registered in 0.004388 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\XXHIDATEXX\juegosUnity\SegundoPrototipoGrupo4\grupo4MiniGolf\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Symbol file LoadedFromMemory doesn't match image C:\Users\XXHIDATEXX\juegosUnity\SegundoPrototipoGrupo4\grupo4MiniGolf\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.053 seconds
+- Completed reload, in  1.038 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1053ms)
-		BeginReloadAssembly (204ms)
+	ReloadAssembly (1039ms)
+		BeginReloadAssembly (202ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (126ms)
-		EndReloadAssembly (738ms)
-			LoadAssemblies (76ms)
+			CreateAndSetChildDomain (125ms)
+		EndReloadAssembly (734ms)
+			LoadAssemblies (75ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (239ms)
+			SetupTypeCache (234ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (51ms)
-			SetupLoadedEditorAssemblies (336ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (341ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (13ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (83ms)
-				ProcessInitializeOnLoadAttributes (207ms)
-				ProcessInitializeOnLoadMethodAttributes (21ms)
-				AfterProcessingInitializeOnLoad (9ms)
+				BeforeProcessingInitializeOnLoad (81ms)
+				ProcessInitializeOnLoadAttributes (216ms)
+				ProcessInitializeOnLoadMethodAttributes (22ms)
+				AfterProcessingInitializeOnLoad (8ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (5ms)

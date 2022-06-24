@@ -15,7 +15,7 @@ C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf
 -logFile
 Logs/AssetImportWorker123.log
 -srvPort
-62991
+50876
 Successfully changed project path to: C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf
 C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -49,134 +49,134 @@ C:/Users/XXHIDATEXX/juegosUnity/SegundoPrototipoGrupo4/grupo4MiniGolf
     "memorysetup-temp-allocator-size-gfx=262144"
 mdb reader table full -> cleaning up stale readers. Current readers:
     pid     thread     txnid
-     18352 ae80 -
-     18352 11f10 -
-     18352 10654 -
-     30744 8e7c -
-     44312 3f9c -
-     70960 356c -
-     40544 13788 -
-     26120 834c -
-     44188 2188 -
-     56160 87c8 -
-     75796 55c8 -
-     20664 13280 -
-     64060 5058 -
-     74084 c0d8 -
-     46876 91e8 -
-     40776 dae4 -
-     39872 4418 -
-     58620 11b38 -
-     79636 2a28 -
-     74920 def8 -
-     58744 12ff0 -
-     26656 4c40 -
-     16712 135d8 -
-     46024 d44 -
-     42128 3f4c -
-     17696 d018 -
-     68940 13670 -
-      6904 80c4 -
-     47236 bb40 -
-     76424 1bc0 -
-     56536 783c -
-     30368 116ec -
-     44572 40fc -
-     33332 12720 -
-     39636 7ea0 -
-     60632 10bf0 -
-     67656 1072c -
-     75024 b8d4 -
-     72224 127c0 -
-     48408 1051c -
-     76508 f750 -
-     47728 85fc -
-     38460 fcdc -
-     69644 a5e8 -
-      9720 2e30 -
-     74376 65c -
-     54256 121e8 -
-     21556 11790 -
-     44200 121e0 -
-     71752 2838 -
-     44752 111c0 -
-     41124 2b50 -
-     57460 1025c -
-     67956 135a0 -
-      2020 bbe8 -
-     27500 c594 -
-     30808 fa08 -
-     69436 6a78 -
-     19380 10368 -
-     75664 ca3c -
-     79380 134cc -
-     48664 a1b0 -
-     75432 f888 -
-     53852 4558 -
-     14456 52c -
-     63012 11dbc -
-     11276 1207c -
-      5012 5114 -
-     42020 10308 -
-     36396 15b4 -
-     57184 a1e0 -
-     48540 bf54 -
-     43736 d07c -
-     10492 98c4 -
-     75064 5c84 -
-     10308 b6ac -
-     34544 84f8 -
-     45512 a0bc -
-     40716 b324 -
-     68192 b8f0 -
-     23376 321c -
-     62400 16f4 -
-     31088 9524 -
-     76244 39dc -
-     10440 107f0 -
-     45804 afa0 -
-     40592 6304 -
-     63592 50f4 -
-     49272 fb88 -
-     46920 ec68 -
-     76448 11670 -
-     69144 10b6c -
-     55508 1097c -
-     61356 9c9c -
-     41888 5b40 -
-     61748 13700 -
-     51728 9c28 -
-     78984 8578 -
-     78104 ed34 -
-     30776 f8cc -
-     38172 134ec -
-     56276 1a90 -
-     29116 12c0c -
-     19356 11600 -
-     62936 e6bc -
-     31212 ead4 -
-     50960 1224c -
-     45132 fd28 -
-      2336 dd04 -
-     25132 ec04 -
-     70920 11010 -
-      7084 ff20 -
-     14340 7b2c -
-     72372 cd88 -
-     71200 b7c8 -
-     78528 2a40 -
-     60616 bf14 -
-     24524 bca8 -
-     72012 754 -
-      4808 cd30 -
-     32296 8380 -
-     41360 1580 -
-     76920 30e8 -
-     74232 f190 -
-      6780 bb24 -
-     68564 369c -
-Cleaned out 122 stale readers
-Refreshing native plugins compatible for Editor in 83.17 ms, found 3 plugins.
+     19544 4c5c -
+     25524 4d94 -
+     19544 4fc4 -
+     19544 4fa0 -
+     19808 4914 -
+      7344 4910 -
+     19436 2174 -
+      6680 c60 -
+      1908 ae8 -
+     20144 2f3c -
+     19200 4ab4 -
+      2836 27f8 -
+     15228 421c -
+     20312 ce0 -
+     19132 4084 -
+     20624 50e4 -
+     14676 355c -
+     16872 1f24 -
+     19116 409c -
+     20656 4dac -
+     20716 5264 -
+     20560 239c -
+     21456 4b0c -
+     20704 5164 -
+     17448 53fc -
+     21296 3660 -
+     20676 5238 -
+     21120 5328 -
+     22128 5674 -
+     22196 56b8 -
+     22236 56e0 -
+     11008 d88 -
+     21320 5e8 -
+     22928 5040 -
+     24500 5fb0 -
+     23560 5fe4 -
+     24972 6190 -
+     21440 4870 -
+     22904 6354 -
+     24256 5eb8 -
+     24868 4da4 -
+     21192 20b8 -
+     24820 60fc -
+     25064 586c -
+     21784 4bf0 -
+     24664 5780 -
+     23420 57e0 -
+     23788 619c -
+     23144 5178 -
+     22668 6388 -
+     21132 61d4 -
+     21868 5fc8 -
+     23624 a7c -
+     20304 6030 -
+     23440 61fc -
+     24992 5df0 -
+     25380 5168 -
+     24296 57c0 -
+     21188 63dc -
+     22884 622c -
+      3592 4e74 -
+     25892 672c -
+     21636 65d8 -
+     21996 5e98 -
+     27012 6b70 -
+     20928 5f64 -
+      6864 6938 -
+     27604 4490 -
+     27672 6c1c -
+     27712 6c44 -
+     28224 6e38 -
+     28524 6d0c -
+     19872 6970 -
+      4836 6968 -
+     22016 5d50 -
+     26732 2b8c -
+     24304 6ef8 -
+     25728 6b1c -
+     28644 6c0c -
+     27848 53e0 -
+     27284 5464 -
+     26052 6784 -
+     28080 6b58 -
+     19136 652c -
+     18580 543c -
+     24844 655c -
+     14960 6b44 -
+     26392 6434 -
+     25216 6644 -
+      6472 6ce0 -
+     28252 22a0 -
+     22312 5a60 -
+     27988 2810 -
+     26604 6fcc -
+     21956 5e24 -
+     25448 368c -
+     22372 6d24 -
+     27824 57c4 -
+      3884 64d4 -
+     26828 6dc8 -
+     29232 7238 -
+     21828 6fa0 -
+     28732 73e4 -
+     29672 73f4 -
+     22684 6f48 -
+     25696 5180 -
+     26632 2b2c -
+     25584 6830 -
+     25136 57dc -
+     27808 737c -
+     22608 4d9c -
+     20296 4c34 -
+     27952 4b48 -
+     21760 73cc -
+     21532 5dac -
+     20268 587c -
+     22112 59f4 -
+     22852 6c8 -
+     25824 67bc -
+     25748 10dc -
+     24848 5d10 -
+     28348 5f24 -
+     27784 6c30 -
+     26244 5124 -
+      2344 50cc -
+     25288 4e94 -
+Cleaned out 123 stale readers
+Refreshing native plugins compatible for Editor in 90.71 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.2.19f1 (602ecdbb2fb0)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/Resources/UnitySubsystems
@@ -192,81 +192,81 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56508
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56412
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.2.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007260 seconds.
+Registered in 0.008600 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 80.27 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 94.18 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.577 seconds
+- Completed reload, in  0.697 seconds
 Domain Reload Profiling:
-	ReloadAssembly (577ms)
-		BeginReloadAssembly (69ms)
+	ReloadAssembly (697ms)
+		BeginReloadAssembly (82ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (407ms)
-			LoadAssemblies (67ms)
+		EndReloadAssembly (496ms)
+			LoadAssemblies (80ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (93ms)
+			SetupTypeCache (117ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (22ms)
-			SetupLoadedEditorAssemblies (248ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (299ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (48ms)
+				InitializePlatformSupportModulesInManaged (61ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (80ms)
+				RefreshPlugins (94ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (81ms)
-				ProcessInitializeOnLoadMethodAttributes (37ms)
+				ProcessInitializeOnLoadAttributes (98ms)
+				ProcessInitializeOnLoadMethodAttributes (44ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004209 seconds.
+Registered in 0.005230 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\XXHIDATEXX\juegosUnity\SegundoPrototipoGrupo4\grupo4MiniGolf\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Symbol file LoadedFromMemory doesn't match image C:\Users\XXHIDATEXX\juegosUnity\SegundoPrototipoGrupo4\grupo4MiniGolf\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 1.01 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.008 seconds
+- Completed reload, in  1.192 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1009ms)
-		BeginReloadAssembly (203ms)
+	ReloadAssembly (1193ms)
+		BeginReloadAssembly (219ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (124ms)
-		EndReloadAssembly (705ms)
-			LoadAssemblies (73ms)
+			CreateAndSetChildDomain (125ms)
+		EndReloadAssembly (851ms)
+			LoadAssemblies (92ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (221ms)
+			SetupTypeCache (267ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (47ms)
-			SetupLoadedEditorAssemblies (333ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (391ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (13ms)
+				InitializePlatformSupportModulesInManaged (15ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (83ms)
-				ProcessInitializeOnLoadAttributes (208ms)
-				ProcessInitializeOnLoadMethodAttributes (20ms)
-				AfterProcessingInitializeOnLoad (7ms)
+				BeforeProcessingInitializeOnLoad (96ms)
+				ProcessInitializeOnLoadAttributes (246ms)
+				ProcessInitializeOnLoadMethodAttributes (22ms)
+				AfterProcessingInitializeOnLoad (10ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (5ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
